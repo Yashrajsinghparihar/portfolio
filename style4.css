@@ -1,0 +1,42 @@
+body {    
+    background-color: rgb(200,243,250);
+    /*background-image: url("cv-image2.jpg");*/
+    height: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+table{
+    border: 5px dashed black;
+    border-style: solid;
+    border-color: red black green;
+    border-radius: 5px;
+    border-width: 5px;
+    margin:10px;
+    padding: 10px;
+    height: 50px;
+    width: 50%;
+}
+
+h2{
+    border: 5px dashed black;
+    width: 15%;
+    border-style: solid;
+    border-width: 5px;
+    margin: 10px;
+    background-color: powderblue;
+    border-radius: 5px;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: double;
+    border-left-style: solid;
+    border-left: 6px solid red;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 5px;
+    outline-offset: 2px;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    word-spacing: 10px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.587);
+}
